@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drimp786
-- 👀 I’m interested in ... html,ccs and python
+- 👀 I’m interested in ... html , css , pyhton , c++ , c# and js
 - 🌱 I’m currently learning ... python
 
 
